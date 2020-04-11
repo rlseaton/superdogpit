@@ -26,7 +26,7 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 
 
 # Dynmap
-[http://superdogpit.apexmc.co:8123/]
+[http://superdogpit.apexmc.co:8123/](http://superdogpit.apexmc.co:8123/)
 
 Generates a *Google Maps-esque* map of all server worlds at the link above.
 
@@ -43,6 +43,8 @@ The main things you'll probably use it for are **money**, **trading**, and inter
 
 You can see how much money you have with the `/money` or `/balance` commands.
 Send other players money directly with `/pay PlayerName amount`.
+
+todo: add trade sign instructions
 
 # Grappling Hook
 # Marriage Master
