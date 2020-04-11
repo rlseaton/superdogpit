@@ -2,6 +2,12 @@ The Super Dogpit Minecraft server is a private Spigot server for the Dogpit Disc
 
 This documents lists all installed plugins on the server, along with usage instructions from a player's perspective.
 
+# Non-Plugin Notes and Modifications
+- **Cats** (not ocelots), **wolves** (both wild and tame), and **parrots** are ***INVULNERABLE** on this server.
+- There is a **community storage** center in the building at spawn where you can donate resources to other players.
+- The **Dogpit Teleport Network** central hub is located adjacent to spawn. You can use the booths there to travel to far away places.
+- All players get a free **elytra** automatically, and more can be found in community storage.
+
 # Installed Plugins
 A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a ⏬ quick link to their respective sections in this document.
 
@@ -31,9 +37,12 @@ The map updates constantly, but don't expect your exploratory boat excursion to 
 
 # Essentials X
 
-This plugin adds more features that could possibly fit in the scope of this document.
+This plugin adds more features than would fit in the scope of this document.
 
 The main things you'll probably use it for are **money**, **trading**, and interacting with op-provided **sign shops**.
+
+You can see how much money you have with the `/money` or `/balance` commands.
+Send other players money directly with `/pay PlayerName amount`.
 
 # Grappling Hook
 # Marriage Master
