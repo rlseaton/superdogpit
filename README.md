@@ -21,11 +21,20 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 
 # Dynmap
 [http://superdogpit.apexmc.co:8123/]
+
 Generates a *Google Maps-esque* map of all server worlds at the link above.
+
 You can also **chat** directly from the map using the chatbox on the bottom of the page *(assuming you've logged into the server recently)*.
+
 The map updates constantly, but don't expect your exploratory boat excursion to be reflected on the map very quickly. It can take minutes to hours for changes and new chunks to appear on the map.
 
+
 # Essentials X
+
+This plugin adds more features that could possibly fit in the scope of this document.
+
+The main things you'll probably use it for are **money**, **trading**, and interacting with op-provided **sign shops**.
+
 # Grappling Hook
 # Marriage Master
 # mcMMO
