@@ -3,7 +3,7 @@ The Super Dogpit Minecraft server is a private Spigot server for the Dogpit Disc
 This documents lists all installed plugins on the server, along with usage instructions from a player's perspective.
 
 # Installed Plugins
-A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a quick link to their respective sections in this document.
+A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a ⏬ quick link to their respective sections in this document.
 
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
 - [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
@@ -20,6 +20,10 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 
 
 # Dynmap
+[http://superdogpit.apexmc.co:8123/]
+Generates a *Google Maps-esque* map of all server worlds at the link above.
+You can also **chat** directly from the map using the chatbox on the bottom of the page *(assuming you've logged into the server recently)*.
+The map updates constantly, but don't expect your exploratory boat excursion to be reflected on the map very quickly. It can take minutes to hours for changes and new chunks to appear on the map.
 
 # Essentials X
 # Grappling Hook
