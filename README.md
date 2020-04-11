@@ -5,29 +5,30 @@ This documents lists all installed plugins on the server, along with usage instr
 # Installed Plugins
 A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a quick link to their respective sections in this document.
 
-- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#Dynmap)
-- [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#Essentials-X)
-- [Grappling Hook](https://www.spigotmc.org/resources/grappling-hook.70854/) [⏬](#Grappling-Hook)
-- [Marriage Master](https://www.spigotmc.org/resources/marriage-master-mc-1-7-1-15.19273/) [⏬](#Marriage-Master)
-- [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcMMO)
-- [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#Minepacks)
-- [No Mob Griefing](https://dev.bukkit.org/projects/no-mob-griefing) [⏬](#No-Mob-Griefing)
-- [Poop](https://www.spigotmc.org/resources/poop-make-animals-useful.77186/) [⏬](#Poop)
-- [Vault](https://www.spigotmc.org/resources/vault.34315/) [⏬](#Vault)
-- [Voteday](https://www.spigotmc.org/resources/voteday.77077/) [⏬](#Voteday)
-- [Wholesome Healing Bandages](https://www.spigotmc.org/resources/wholesome-healing-bandages.77004/) [⏬](#Wholesome-Healing-Bandages)
-- [XP Trading Cards](https://www.spigotmc.org/resources/xp-trading-cards.9378/) [⏬](#XP-Trading-Cards)
+- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
+- [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
+- [Grappling Hook](https://www.spigotmc.org/resources/grappling-hook.70854/) [⏬](#grappling-hook)
+- [Marriage Master](https://www.spigotmc.org/resources/marriage-master-mc-1-7-1-15.19273/) [⏬](#marriage-master)
+- [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
+- [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
+- [No Mob Griefing](https://dev.bukkit.org/projects/no-mob-griefing) [⏬](#no-mob-griefing)
+- [Poop](https://www.spigotmc.org/resources/poop-make-animals-useful.77186/) [⏬](#poop)
+- [Vault](https://www.spigotmc.org/resources/vault.34315/) [⏬](#vault)
+- [Voteday](https://www.spigotmc.org/resources/voteday.77077/) [⏬](#voteday)
+- [Wholesome Healing Bandages](https://www.spigotmc.org/resources/wholesome-healing-bandages.77004/) [⏬](#wholesome-healing-bandages)
+- [XP Trading Cards](https://www.spigotmc.org/resources/xp-trading-cards.9378/) [⏬](#xp-trading-cards)
 
 
 # Dynmap
-# Essentials-X
-# Grappling-Hook
-# Marriage-Master
+
+# Essentials X
+# Grappling Hook
+# Marriage Master
 # mcMMO
 # Minepacks
-# No-Mob-Griefing
+# No Mob Griefing
 # Poop
 # Vault
 # Voteday
-# Wholesome-Healing-Bandages
-# XP-Trading-Cards
+# Wholesome Healing Bandages
+# XP Trading Cards
