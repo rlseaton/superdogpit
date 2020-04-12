@@ -103,6 +103,17 @@ Once you've exhausted a grappling hook, it will break.
 ![alt text](https://rlseaton.github.io/superdogpit/images/diamond-grappling-hook.png "Diamond Grappling Hook")
 
 # Marriage Master
+You can propose to marry any other player. Married players get benefits such as shared XP, the ability to share backpacks, send gifts from *anywhere*, the ability to kiss, turn off friendly fire, teleport to your spouse, and a lot more!
+
+The first thing you'll want to do is **find a priest**. You can do that with `/marry listpriests`. Ops are priests automatically, and can ordain other players as priests if necessary.
+
+Once you've found a priest, the two of you need to be in the priest's vicinity, and the priest can then marry you by typing `/marry marry PlayerName1 PlayerName2`.
+
+You'll be notified and must then either `/marry accept` or `/marry deny`. If you both accept, congrats! You tied the knot!
+
+You can type `/marry` to get a full list of commands and what they do. Note that `sethome` and `delhome` are for setting where you'll end up if you type `/marry home`.
+
+
 # mcMMO
 # Minepacks
 # No Mob Griefing
