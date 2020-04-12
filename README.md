@@ -97,7 +97,10 @@ Simply hold the grappling hook and right click. If the hook grabs something, it'
 
 Once you've exhausted a grappling hook, it will break.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://rlseaton.github.io/superdogpit/images/wooden-grappling-hook.png "Wooden Grappling Hook")
+![alt text](https://rlseaton.github.io/superdogpit/images/iron-grappling-hook.png "Iron Grappling Hook")
+![alt text](https://rlseaton.github.io/superdogpit/images/gold-grappling-hook.png "Gold Grappling Hook")
+![alt text](https://rlseaton.github.io/superdogpit/images/diamond-grappling-hook.png "Diamond Grappling Hook")
 
 # Marriage Master
 # mcMMO
