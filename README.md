@@ -25,7 +25,7 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 
 
 # Dynmap
-[http://superdogpit.apexmc.co:8123/](http://superdogpit.apexmc.co:8123/)
+[http://dogpitmcmap.xezton.com:8123](http://dogpitmcmap.xezton.com:8123)
 
 Generates a *GoogleMaps-esque* map of all server worlds at the link above.
 
