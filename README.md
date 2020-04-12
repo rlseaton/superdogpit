@@ -19,8 +19,6 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 - [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
 - [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
 - [No Mob Griefing](https://dev.bukkit.org/projects/no-mob-griefing) [⏬](#no-mob-griefing)
-- [Poop](https://www.spigotmc.org/resources/poop-make-animals-useful.77186/) [⏬](#poop)
-- [Vault](https://www.spigotmc.org/resources/vault.34315/) [⏬](#vault)
 - [Voteday](https://www.spigotmc.org/resources/voteday.77077/) [⏬](#voteday)
 - [Wholesome Healing Bandages](https://www.spigotmc.org/resources/wholesome-healing-bandages.77004/) [⏬](#wholesome-healing-bandages)
 - [XP Trading Cards](https://www.spigotmc.org/resources/xp-trading-cards.9378/) [⏬](#xp-trading-cards)
@@ -146,10 +144,6 @@ Players don't need to do anything with this plugin, but they will certainly see 
 With it, **creeper explosions** no longer destroy blocks (but they still damage players), **endermen** no longer steal blocks, and **ghast and wither fireballs** no longer destroy blocks (but they still damage players).
 
 So basically you no longer need to worry about mobs destroying your wonderful creations! But don't let your guard down, because they certainly can still hurt *you*!
-
-
-# Vault
-This is another one of those passive plugins that doesn't do much for players, but it does expose APIs and let a lot of the other plugins *work*. Just know that it's there and running in the background for your benefit!
 
 
 # Voteday
