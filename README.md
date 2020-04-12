@@ -1,11 +1,11 @@
 The Super Dogpit Minecraft server is a private Spigot server for the Dogpit Discord channel.
 
-This documents lists all installed plugins on the server, along with usage instructions from a player's perspective.
+This document lists all installed plugins on the server, along with usage instructions from a player's perspective.
 
 # Non-Plugin Notes and Modifications
 - **Cats** (not ocelots), **wolves** (both wild and tame), and **parrots** are ***INVULNERABLE** on this server.
 - There is a **community storage** center in the building at spawn where you can donate resources to other players.
-- The **Dogpit Teleport Network** central hub is located adjacent to spawn. You can use the booths there to travel to far away places.
+- The **Dogpit Teleport Network** (DTN) central hub is located adjacent to spawn. You can use the booths there to travel to far away places.
 - All players get a free **elytra** automatically, and more can be found in community storage.
 
 # Installed Plugins
@@ -28,11 +28,13 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 # Dynmap
 [http://superdogpit.apexmc.co:8123/](http://superdogpit.apexmc.co:8123/)
 
-Generates a *Google Maps-esque* map of all server worlds at the link above.
+Generates a *GoogleMaps-esque* map of all server worlds at the link above.
 
 You can also **chat** directly from the map using the chatbox on the bottom of the page *(assuming you've logged into the server recently)*.
 
-The map updates constantly, but don't expect your exploratory boat excursion to be reflected on the map very quickly. It can take minutes to hours for changes and new chunks to appear on the map.
+You can share a specific location by clicking the **link** button on the bottom left.
+
+The map updates constantly, but don't expect your exploratory boat excursions to be reflected on the map very quickly. It can take minutes to hours for changes and new chunks to appear on the map.
 
 
 # Essentials X
@@ -42,9 +44,36 @@ This plugin adds more features than would fit in the scope of this document.
 The main things you'll probably use it for are **money**, **trading**, and interacting with op-provided **sign shops**.
 
 You can see how much money you have with the `/money` or `/balance` commands.
-Send other players money directly with `/pay PlayerName amount`.
+**Send** other players money directly with `/pay PlayerName amount`.
+You can also **sell** items to the server for money! The easiest way is to hold the item in your hand and run `/sell hand amount`. You can see how much the thing in your hand is worth by running `/worth hand`.
+*Note that not all items can be sold, but most can!*
 
-todo: add trade sign instructions
+The other interesting thing you an do with this plugin is create **Trade Signs**. You can put these anywhere you want and people can trade items with you by interacting with the sign.
+
+First create a sign. Fill out the four lines like this:
+1. `[Trade]`
+2. What you are **asking** for in the format of money `$200` or a quantity of items `10 dirt`.
+3. What you are **giving** in the format of money `$200` or a quantity of items along with the total number loaded into the sign `10 dirt:100`.
+4. Leave this line *blank*. This will fill itself in with the name of the player who made the sign.
+
+So for example, if you made a sign that looked like this:
+```
+[Trade]
+$5
+10 dirt:100
+
+```
+...the game would take 100 dirt from your inventory (assuming you have it) and load it into the sign.
+Then, when anyone else (besides you) right clicks the sign, they will pay $5 and get 10 dirt, and the total dirt in the sign will be decreased by 10 until it's empty.
+
+You can **restock** the sign by holding the item you're trading in your hand and right-clicking the sign.
+You can **collect** the items/money stored in the sign by right clicking it with an empty hand.
+
+If you don't know the name of the item you should use, hold the item in your hand and type the `/itemdb` command. It will provide a list of possible names that you can type into the sign.
+
+Similarly, you might find `[Buy]` and `[Sell]` signs scattered around. These are created by ops, and their function is pretty self explanatory. 
+If you see a `[Buy]` sign with something you'd like to buy, right-click it and, assuming you have the cost (4th line) it'll buy the item in the amount specified on the 2nd line. 
+`[Sell]` signs will take your items and give you the item/money listed on the 4th line.
 
 # Grappling Hook
 # Marriage Master
