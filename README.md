@@ -81,7 +81,24 @@ If you see a `[Buy]` sign with something you'd like to buy, right-click it and, 
 
 `[Sell]` signs will take your items and give you the item/money listed on the 4th line.
 
+Lastly, you can also **send players offline messages** by using the `/mail` command.
+
+For example, `send PlayerName Hey how are you?`.
+
+You will be notified if you have new mail, and can read it with `/mail read`.
+
+Once you've read your mail, you can use `/mail clear` to empty your mailbox.
+
+
 # Grappling Hook
+You can craft grappling hooks, with different usage amounts, using the recipes below.
+
+Simply hold the grappling hook and right click. If the hook grabs something, it'll pull you to it. It's a nifty way to cross gaps or stop yourself from falling!
+
+Once you've exhausted a grappling hook, it will break.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 # Marriage Master
 # mcMMO
 # Minepacks
