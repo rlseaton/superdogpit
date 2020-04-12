@@ -44,9 +44,12 @@ This plugin adds more features than would fit in the scope of this document.
 The main things you'll probably use it for are **money**, **trading**, and interacting with op-provided **sign shops**.
 
 You can see how much money you have with the `/money` or `/balance` commands.
+
 **Send** other players money directly with `/pay PlayerName amount`.
+
 You can also **sell** items to the server for money! The easiest way is to hold the item in your hand and run `/sell hand amount`. You can see how much the thing in your hand is worth by running `/worth hand`.
 *Note that not all items can be sold, but most can!*
+
 
 The other interesting thing you an do with this plugin is create **Trade Signs**. You can put these anywhere you want and people can trade items with you by interacting with the sign.
 
@@ -67,12 +70,15 @@ $5
 Then, when anyone else (besides you) right clicks the sign, they will pay $5 and get 10 dirt, and the total dirt in the sign will be decreased by 10 until it's empty.
 
 You can **restock** the sign by holding the item you're trading in your hand and right-clicking the sign.
+
 You can **collect** the items/money stored in the sign by right clicking it with an empty hand.
 
-If you don't know the name of the item you should use, hold the item in your hand and type the `/itemdb` command. It will provide a list of possible names that you can type into the sign.
+If you don't know the **name of the item** you should use, hold the item in your hand and type the `/itemdb` command. It will provide a list of possible names that you can type into the sign.
 
 Similarly, you might find `[Buy]` and `[Sell]` signs scattered around. These are created by ops, and their function is pretty self explanatory. 
+
 If you see a `[Buy]` sign with something you'd like to buy, right-click it and, assuming you have the cost (4th line) it'll buy the item in the amount specified on the 2nd line. 
+
 `[Sell]` signs will take your items and give you the item/money listed on the 4th line.
 
 # Grappling Hook
