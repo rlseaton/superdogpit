@@ -141,7 +141,7 @@ Basically your inventory has more than doubled. Better yet, you'll never lose an
 
 
 # No Mob Griefing
-Players don't need to do anything with this plugin, but they will certain see its affects.
+Players don't need to do anything with this plugin, but they will certainly see its effects.
 
 With it, **creeper explosions** no longer destroy blocks (but they still damage players), **endermen** no longer steal blocks, and **ghast and wither fireballs** no longer destroy blocks (but they still damage players).
 
@@ -174,3 +174,30 @@ And last but not least, your bandages come with a sweet **Pet Locator** that you
 
 
 # XP Trading Cards
+As you're out killing mobs, you might notice that they now occasionally drop trading cards! Most of them will be for all of the classic Minecraft characters we all know and love such as Pig, Zombie, Cow, etc.
+
+But sometimes you'll get a card based on one of players on the server, or even cards for characters who have appeared in game jams or games being actively developed on the Dogpit Discord!
+
+![alt text](https://rlseaton.github.io/superdogpit/images/card.png "Trading Card")
+
+**Over time, new cards might be added, along with flavor text! You can even get "shiny" versions of cards.**
+
+So... what do you do with these? 
+
+Well, you can collect them, obviously, and trade them with other players.
+
+You can also organize them into **decks**, which are ultimately freely available card-only inventories *(if you put non-card items in them those items pop out when you close them)*. Decks are labeled by numbers (so you can have Deck #1 with all of your zombies, Deck #23 with all of your rares, etc.). To get, for example, your #2 deck, simply type `/cards getdeck 2`.
+
+Decks are kinda weird in the fact that they are like little individual card-only Ender Chests. You can type `/cards getdeck 2` and get 10 of your #2 decks. You can even stash those decks in chests, or give them to other players. But those decks will always be yours, and changes you make in any deck with the same label (#2, or #153, etc.) will be made to all copies. These are really for **organization only**.
+
+What else can you do with them...?
+
+You can also get **rewards** for collecting all cards from any given "rarity" (common, uncommon, legendary, etc.).
+
+To see your progress, type `/cards list`. If you see a rarity listed as **"complete"** then you can turn it in for money and prizes!
+
+To collect your reward, for example let's say you've collected all of the "Very Rare" cards, type `/cards reward Very_Rare`. You will lose one of all of your "Very Rare" cards and receive a reward!
+
+**Note:** The list and reward commands only take into consideration **cards in your decks**. So you must put cards into decks before checking your progress or collecting your reward! Otherwise it won't know you own them!
+
+**Note:** Be careful because the reward command can and will eat "shiny" versions of cards. These are no different from non-shiny cards, but players may value them more!
