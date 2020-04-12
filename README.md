@@ -7,6 +7,7 @@ This document lists all installed plugins on the server, along with usage instru
 - There is a **community storage** center in the building at spawn where you can donate resources to other players.
 - The **Dogpit Teleport Network** (DTN) central hub is located adjacent to spawn. You can use the booths there to travel to far away places.
 - All players get a free **elytra** automatically, and more can be found in community storage.
+- When a player **dies**, they do **not** lose items or experience. Take risks!
 
 # Installed Plugins
 A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a ⏬ quick link to their respective sections in this document.
@@ -102,8 +103,9 @@ Once you've exhausted a grappling hook, it will break.
 ![alt text](https://rlseaton.github.io/superdogpit/images/gold-grappling-hook.png "Gold Grappling Hook")
 ![alt text](https://rlseaton.github.io/superdogpit/images/diamond-grappling-hook.png "Diamond Grappling Hook")
 
+
 # Marriage Master
-You can propose to marry any other player. Married players get benefits such as shared XP, the ability to share backpacks, send gifts from *anywhere*, the ability to kiss, turn off friendly fire, teleport to your spouse, and a lot more!
+You can get married any other player! Married players get benefits such as shared XP, the ability to share backpacks, send gifts from *anywhere*, the ability to kiss, turn off friendly fire, teleport to your spouse, and a lot more!
 
 The first thing you'll want to do is **find a priest**. You can do that with `/marry listpriests`. Ops are priests automatically, and can ordain other players as priests if necessary.
 
@@ -115,10 +117,60 @@ You can type `/marry` to get a full list of commands and what they do. Note that
 
 
 # mcMMO
+This is *by far* the biggest and most game-changing plugin installed on this server. 
+
+mcMMO adds skills and abilities, as well as a leveling system, for pretty much *everything* in the game, including fighting, mining, woodcutting, taming, jumping, making potions, and more.
+
+As soon as you start doing... well almost anything, you'll begin leveling up. Over time you'll start to gain skills and abilities (both passive and active). You can right-click while holding a tool, for example, to activate its super ability.
+
+You can type `/mcmmo help` for a list of commands.
+
+To check on your skills, you can use skill name commands such as `/mining`, `fishing`, `/axes`, etc. to check you abilities, or you can just type `/mcstats` for an overview of each skill, including your level and how much XP you need to level up.
+
+The plugin makes itself pretty obvious, so I won't go into much more detail here.
+
+You should really give their wiki a look if you'd like to learn everything you can do with mcMMO! [https://mcmmo.org/wiki/Main_Page](https://mcmmo.org/wiki/Main_Page)
+
+
 # Minepacks
+This one is simple and straightforward. **Everyone** gets an item called `Backpack`. If you use (right-click while holding) the Backpack, it'll open up what essentially amounts to a *portable **double-chest***.
+
+Basically your inventory has more than doubled. Better yet, you'll never lose anything you put in there!
+
+**If you ever (somehow) lose your Backpack item**, you can still access it via the `/backpack` command. Contact an op and they can give you a new Backpack item.
+
+
 # No Mob Griefing
-# Poop
+Players don't need to do anything with this plugin, but they will certain see its affects.
+
+With it, **creeper explosions** no longer destroy blocks (but they still damage players), **endermen** no longer steal blocks, and **ghast and wither fireballs** no longer destroy blocks (but they still damage players).
+
+So basically you no longer need to worry about mobs destroying your wonderful creations! But don't let your guard down, because they certainly can still hurt *you*!
+
+
 # Vault
+This is another one of those passive plugins that doesn't do much for players, but it does expose APIs and let a lot of the other plugins *work*. Just know that it's there and running in the background for your benefit!
+
+
 # Voteday
+It's night, dozens of monsters are around, there's no op online, and no one is anywhere near their beds, but **everyone really wishes it could just be daytime already**!!!
+
+Have no fear! Simply type `/voteday` and it will start a server-wide vote. If enough other players (ignoring AFK players) type `/voteday confirm`, it will magically become daytime!
+
+It's that simple! You can read more by typing `/voteday help`.
+
+
 # Wholesome Healing Bandages
+Sometimes you just don't want to craft potions. But eating food isn't healing you quickly enough. Don't you wish there was a simple consumable item you could craft that would instantly heal you, even just a lil bit? Well now there is!
+
+![alt text](https://rlseaton.github.io/superdogpit/images/bandage.png "Wholesome Healing Bandage")
+
+You can make these bandages out of any color wool. 
+
+To **heal yourself**, use (right-click while holding) a bandage and it'll heal you a bit (something like 2.5 hearts).
+To **heal your pet** (yes they're invulnerable but whatever) use a bandage on your pet!
+
+And last but not least, your bandages come with a sweet **Pet Locator** that you can activate by left-clicking while holding a bandage. (You can disable it the same way.) This will make your pets glow, and you'll be able to see their glow through walls! Very wholesome!
+
+
 # XP Trading Cards
