@@ -20,7 +20,6 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 - [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
 - [No Mob Griefing](https://dev.bukkit.org/projects/no-mob-griefing) [⏬](#no-mob-griefing)
 - [Voteday](https://www.spigotmc.org/resources/voteday.77077/) [⏬](#voteday)
-- [Wholesome Healing Bandages](https://www.spigotmc.org/resources/wholesome-healing-bandages.77004/) [⏬](#wholesome-healing-bandages)
 - [XP Trading Cards](https://www.spigotmc.org/resources/xp-trading-cards.9378/) [⏬](#xp-trading-cards)
 
 
@@ -152,19 +151,6 @@ It's night, dozens of monsters are around, there's no op online, and no one is a
 Have no fear! Simply type `/voteday` and it will start a server-wide vote. If enough other players (ignoring AFK players) type `/voteday confirm`, it will magically become daytime!
 
 It's that simple! You can read more by typing `/voteday help`.
-
-
-# Wholesome Healing Bandages
-Sometimes you just don't want to craft potions. But eating food isn't healing you quickly enough. Don't you wish there was a simple consumable item you could craft that would instantly heal you, even just a lil bit? Well now there is!
-
-![alt text](https://rlseaton.github.io/superdogpit/images/bandage.png "Wholesome Healing Bandage")
-
-You can make these bandages out of any color wool. 
-
-To **heal yourself**, use (right-click while holding) a bandage and it'll heal you a bit (something like 2.5 hearts).
-To **heal your pet** (yes they're invulnerable but whatever) use a bandage on your pet!
-
-And last but not least, your bandages come with a sweet **Pet Locator** that you can activate by left-clicking while holding a bandage. (You can disable it the same way.) This will make your pets glow, and you'll be able to see their glow through walls! Very wholesome!
 
 
 # XP Trading Cards
