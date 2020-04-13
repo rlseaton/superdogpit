@@ -128,6 +128,8 @@ The plugin makes itself pretty obvious, so I won't go into much more detail here
 
 You should really give their wiki a look if you'd like to learn everything you can do with mcMMO! [https://mcmmo.org/wiki/Main_Page](https://mcmmo.org/wiki/Main_Page)
 
+Or, if the information on the *official* wiki is lacking, you can try the community-driven wiki! [https://mcmmo.fandom.com/wiki/McMMO_Wiki](https://mcmmo.fandom.com/wiki/McMMO_Wiki)
+
 
 # Minepacks
 This one is simple and straightforward. **Everyone** gets an item called `Backpack`. If you use (right-click while holding) the Backpack, it'll open up what essentially amounts to a *portable **double-chest***.
