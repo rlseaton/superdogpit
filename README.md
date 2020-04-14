@@ -34,6 +34,13 @@ You can share a specific location by clicking the **link** button on the bottom 
 
 The map updates constantly, but don't expect your exploratory boat excursions to be reflected on the map very quickly. It can take minutes to hours for changes and new chunks to appear on the map.
 
+### Adding Markers to the Map
+You can now add markers to the map! To do so, just stand where you want the marker to show up on the map, and type `/dmarker add MarkerNameHere icon:icon_name`. Replace "MarkerNameHere" with whatever you want the marker to be called, and replace icon_name with one of the icons in the image below.
+
+If you need to **remove a marker** contact an op!
+
+![alt text](https://rlseaton.github.io/superdogpit/images/dynmap-marker-icons.png "Dynmap Marker Icons")
+
 
 # Essentials X
 
