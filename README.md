@@ -79,13 +79,15 @@ If you see a `[Buy]` sign with something you'd like to buy, right-click it and, 
 
 `[Sell]` signs will take your items and give you the item/money listed on the 4th line.
 
-Lastly, you can also **send players offline messages** by using the `/mail` command.
+You can also **send players offline messages** by using the `/mail` command.
 
 For example, `send PlayerName Hey how are you?`.
 
 You will be notified if you have new mail, and can read it with `/mail read`.
 
 Once you've read your mail, you can use `/mail clear` to empty your mailbox.
+
+Lastly, there are a couple of **convenient warp commands** available to you: `/home` and `/spawn`. Home will take you to your bed, spawn will take you to spawn.
 
 
 # Grappling Hook
