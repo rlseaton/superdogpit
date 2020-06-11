@@ -216,7 +216,8 @@ To collect your reward, for example let's say you've collected all of the "Very 
 &nbsp;  
 
 # Dogpit: Unleashed
-The Dogpit: Unleashed Minecraft server is a private server for the Dogpit Discord channel. It's running the **Attack of the B-Team** modpack from Technic. 
+The Dogpit: Unleashed Minecraft server is a private server for the Dogpit Discord channel. It's running the **Attack of the B-Team** modpack from Technic.
+
 Unlike Dogpit, which is a collection of Spigot plugins, Dogpit: Unleashed is a truly modded server, and therefore requires a special client to play. The modpack is a curated collection of mods managed by the good folks at Technic.
 
 *Keep in mind that this modpack runs on a very old version of Minecraft: 1.6.4. So many of the new features you might be accustomed to in 1.15.x may be missing or implemented by a mod in a different way.*
