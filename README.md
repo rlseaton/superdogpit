@@ -230,9 +230,9 @@ Once you've downloaded and installed the Launcher (or just downloaded the portab
 
 Click the **"Modpacks"** tab at the top of the launcher window. In the modpack list on the left, find the one named **"Attack of the B-Team"** and click it. You can then install the modpack using the "Install" button on the bottom-right.
 
-This takes care of making sure you have all the right mods in all the right places, and manages individual modpack installations for you. It really does take a lot of the hassle out of connected to a modded server.
+This takes care of making sure you have all the right mods in all the right places, and manages individual modpack installations for you. It really does take a lot of the hassle out of connecting to a modded server.
 
-From this point forward, connecting to and playing on the Dogpit: Unleashed server works exactly like any other Minecraft experience.
+From this point forward, connecting to and playing on the Dogpit: Unleashed server works just like any other Minecraft experience.
 
 
 ## Mooooooooods
