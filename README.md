@@ -252,3 +252,10 @@ You can set your own markers/waypoints by right-clicking the minimap. It's prett
 
 The mod in use is called **MapWriter** and you can learn more about it at [https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286882-mapwriter-an-open-source-mini-map](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286882-mapwriter-an-open-source-mini-map).
 
+
+## Morph Mod
+So when you kill a baddie, you gain the ability to **morph into its form**. Morphing into a mob grants you all of the qualities of that mob, including some of their special abilities like fast swimming, water breathing, burning under the sun, or the ability to climb walls!
+
+To morph, all you have to do is press `[` or `]`. That's it! It'll show you the list of mobs you can morph into.
+
+Have fun! Be careful... someone might mistake you for a skeleton!!!
