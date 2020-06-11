@@ -3,7 +3,8 @@ The Dogpit Discord now has two, count'em, *TWO*, Minecraft servers: **Dogpit** a
 This document contains all the information you need to connect and play on either one!
 
 Skip to [Dogpit](#dogpit)
-Skip to [Dogpit: Unleashed](#dogpit:-unleashed)
+
+Skip to [Dogpit: Unleashed](#dogpit-unleashed)
 
 ---
 
