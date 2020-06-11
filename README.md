@@ -7,6 +7,8 @@ Skip to [Dogpit](#dogpit)
 Skip to [Dogpit: Unleashed](#dogpit-unleashed)
 
 ---
+&nbsp;  
+&nbsp;  
 
 # Dogpit
 The Dogpit Minecraft server is a private Spigot server for the Dogpit Discord channel. It's essentially Vanilla minecraft with some extra bells and whistles attached. You **do not** need a special client to connect to Dogpit.
