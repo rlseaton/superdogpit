@@ -206,13 +206,14 @@ To collect your reward, for example let's say you've collected all of the "Very 
 
 **Note:** Be careful because the reward command can, and will, eat "shiny" versions of cards. These are no different from non-shiny cards, but players may value them more!
 
-
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ---
-
-
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 # Dogpit: Unleashed
 The Dogpit: Unleashed Minecraft server is a private server for the Dogpit Discord channel. It's running the **Attack of the B-Team** modpack from Technic. 
