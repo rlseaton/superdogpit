@@ -1,15 +1,25 @@
-The Super Dogpit Minecraft server is a private Spigot server for the Dogpit Discord channel.
+The Dogpit Discord now has two, count'em, *TWO*, Minecraft servers: **Dogpit** and **Dogpit: Unleashed**.
+
+This document contains all the information you need to connect and play on either one!
+
+Skip to [Dogpit](#dogpit)
+Skip to [Dogpit: Unleashed](#dogpit:-unleashed)
+
+---
+
+# Dogpit
+The Dogpit Minecraft server is a private Spigot server for the Dogpit Discord channel. It's essentially Vanilla minecraft with some extra bells and whistles attached. You **do not** need a special client to connect to Dogpit.
 
 This document lists all installed plugins on the server, along with usage instructions from a player's perspective.
 
-# Non-Plugin Notes and Modifications
+## Non-Plugin Notes and Modifications
 - **Cats** (not ocelots), **wolves** (both wild and tame), and **parrots** are ***INVULNERABLE** on this server.
 - There is a **community storage** center in the building at spawn where you can donate resources to other players.
 - The **Dogpit Teleport Network** (DTN) central hub is located adjacent to spawn. You can use the booths there to travel to far away places.
 - All players get a free **elytra** automatically, and more can be found in community storage.
 - When a player **dies**, they do **not** lose items or experience. Take risks!
 
-# Installed Plugins
+## Installed Plugins
 A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a ⏬ quick link to their respective sections in this document.
 
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
@@ -23,7 +33,7 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 - [XP Trading Cards](https://www.spigotmc.org/resources/xp-trading-cards.9378/) [⏬](#xp-trading-cards)
 
 
-# Dynmap
+## Dynmap
 [http://dogpitmcmap.xezton.com:8123](http://dogpitmcmap.xezton.com:8123)
 
 Generates a *GoogleMaps-esque* map of all server worlds at the link above.
@@ -34,7 +44,7 @@ You can share a specific location by clicking the **link** button on the bottom 
 
 The map updates constantly, but don't expect your exploratory boat excursions to be reflected on the map very quickly. It can take minutes to hours for changes and new chunks to appear on the map.
 
-### Adding Markers to the Map
+#### Adding Markers to the Map
 You can now add markers to the map! To do so, just stand where you want the marker to show up on the map, and type `/dmarker add MarkerNameHere icon:icon_name`. Replace "MarkerNameHere" with whatever you want the marker to be called, and replace icon_name with one of the icons in the image below, making sure to **remove spaces** from the name if it has any.
 
 If you need to **remove a marker** contact an op!
@@ -42,7 +52,7 @@ If you need to **remove a marker** contact an op!
 ![alt text](https://rlseaton.github.io/superdogpit/images/dynmap-marker-icons.png "Dynmap Marker Icons")
 
 
-# Essentials X
+## Essentials X
 
 This plugin adds more features than would fit in the scope of this document.
 
@@ -97,7 +107,7 @@ Once you've read your mail, you can use `/mail clear` to empty your mailbox.
 Lastly, there are a couple of **convenient warp commands** available to you: `/home` and `/spawn`. Home will take you to your bed, spawn will take you to spawn.
 
 
-# Grappling Hook
+## Grappling Hook
 You can craft grappling hooks, with different usage amounts, using the recipes below.
 
 Simply hold the grappling hook and right click. If the hook grabs something, it'll pull you to it. It's a nifty way to cross gaps or stop yourself from falling!
@@ -110,7 +120,7 @@ Once you've exhausted a grappling hook, it will break.
 ![alt text](https://rlseaton.github.io/superdogpit/images/diamond-grappling-hook.png "Diamond Grappling Hook")
 
 
-# Marriage Master
+## Marriage Master
 You can get married any other player! Married players get benefits such as shared XP, the ability to share backpacks, send gifts from *anywhere*, the ability to kiss, turn off friendly fire, teleport to your spouse, and a lot more!
 
 The first thing you'll want to do is **find a priest**. You can do that with `/marry listpriests`. Ops are priests automatically, and can ordain other players as priests if necessary.
@@ -122,7 +132,7 @@ You'll be notified and must then either `/marry accept` or `/marry deny`. If you
 You can type `/marry` to get a full list of commands and what they do. Note that `sethome` and `delhome` are for setting where you'll end up if you type `/marry home`.
 
 
-# mcMMO
+## mcMMO
 This is *by far* the biggest and most game-changing plugin installed on this server. 
 
 mcMMO adds skills and abilities, as well as a leveling system, for pretty much *everything* in the game, including fighting, mining, woodcutting, taming, jumping, making potions, and more.
@@ -140,7 +150,7 @@ You should really give their wiki a look if you'd like to learn everything you c
 Or, if the information on the *official* wiki is lacking, you can try the community-driven wiki! [https://mcmmo.fandom.com/wiki/McMMO_Wiki](https://mcmmo.fandom.com/wiki/McMMO_Wiki)
 
 
-# Minepacks
+## Minepacks
 This one is simple and straightforward. **Everyone** gets an item called `Backpack`. If you use (right-click while holding) the Backpack, it'll open up what essentially amounts to a *portable **double-chest***.
 
 Basically your inventory has more than doubled. Better yet, you'll never lose anything you put in there!
@@ -148,7 +158,7 @@ Basically your inventory has more than doubled. Better yet, you'll never lose an
 **If you ever (somehow) lose your Backpack item**, you can still access it via the `/backpack` command. Contact an op and they can give you a new Backpack item.
 
 
-# No Mob Griefing
+## No Mob Griefing
 Players don't need to do anything with this plugin, but they will certainly see its effects.
 
 With it, **creeper explosions** no longer destroy blocks (but they still damage players), **endermen** no longer steal blocks, and **ghast and wither fireballs** no longer destroy blocks (but they still damage players).
@@ -156,7 +166,7 @@ With it, **creeper explosions** no longer destroy blocks (but they still damage 
 So basically you no longer need to worry about mobs destroying your wonderful creations! But don't let your guard down, because they certainly can still hurt *you*!
 
 
-# Voteday
+## Voteday
 It's night, dozens of monsters are around, there's no op online, and no one is anywhere near their beds, but **everyone really wishes it could just be daytime already**!!!
 
 Have no fear! Simply type `/voteday` and it will start a server-wide vote. If enough other players (ignoring AFK players) type `/voteday confirm`, it will magically become daytime!
@@ -164,7 +174,7 @@ Have no fear! Simply type `/voteday` and it will start a server-wide vote. If en
 It's that simple! You can read more by typing `/voteday help`.
 
 
-# XP Trading Cards
+## XP Trading Cards
 As you're out killing mobs, you might notice that they now occasionally drop trading cards! Most of them will be for all of the classic Minecraft characters we all know and love such as Pig, Zombie, Cow, etc.
 
 But sometimes you'll get a card based on one of the players on the server, or even cards for characters who have appeared in game jams or games being actively developed on the Dogpit Discord!
@@ -192,3 +202,46 @@ To collect your reward, for example let's say you've collected all of the "Very 
 **Note:** The list and reward commands only take into consideration **cards in your decks**. So you must put cards into decks before checking your progress or collecting your reward! Otherwise it won't know you own them!
 
 **Note:** Be careful because the reward command can, and will, eat "shiny" versions of cards. These are no different from non-shiny cards, but players may value them more!
+
+
+
+
+---
+
+
+
+
+# Dogpit: Unleashed
+The Dogpit: Unleashed Minecraft server is a private server for the Dogpit Discord channel. It's running the **Attack of the B-Team** modpack from Technic. 
+Unlike Dogpit, which is a collection of Spigot plugins, Dogpit: Unleashed is a truly modded server, and therefore requires a special client to play. The modpack is a curated collection of mods managed by the good folks at Technic.
+
+*Keep in mind that this modpack runs on a very old version of Minecraft: 1.6.4. So many of the new features you might be accustomed to in 1.15.x may be missing or implemented by a mod in a different way.*
+
+
+## Unleash Yourself and Face to Bloodshed
+The easiest way to connect to Dogpit: Unleashed is to use the **Technic Launcher** available at: [https://www.technicpack.net/download](https://www.technicpack.net/download)
+
+Once you've downloaded and installed the Launcher (or just downloaded the portable version), start it up and login with your usual Minecraft credentials.
+
+Click the **"Modpacks"** tab at the top of the launcher window. In the modpack list on the left, find the one named **"Attack of the B-Team"** and click it. You can then install the modpack using the "Install" button on the bottom-right.
+
+This takes care of making sure you have all the right mods in all the right places, and manages individual modpack installations for you. It really does take a lot of the hassle out of connected to a modded server.
+
+From this point forward, connecting to and playing on the Dogpit: Unleashed server works exactly like any other Minecraft experience.
+
+
+## Mooooooooods
+You can find a list of all mods in use by Attack of the B-Team here: [https://www.technicpack.net/modpack/attack-of-the-bteam.552556/mods](https://www.technicpack.net/modpack/attack-of-the-bteam.552556/mods)
+
+Listing every single feature from every single mod is out of the scope of this document. There's just waaaaaaaaay too much.
+
+Instead, this document will occasionally be updated with some of the more frequently used, or frequently confusing, features. Most of the mods listed in the link above have their own wikis where you can find all sorts of information on how to use them. Remember: ***just because a mod is in use doesn't mean you have to use it***. Feel free to do whatever you want, play however you want, and don't feel forced to use all the mods. You are, in fact, *unleashed*, after all.
+
+
+## Minimap
+Dogpit: Unleashed does not have a Dynmap map like the regular Dogpit server. Instead, at any time, you can press **m** to bring up your own minimap. 
+
+You can set your own markers/waypoints by right-clicking the minimap. It's pretty nifty!
+
+The mod in use is called **MapWriter** and you can learn more about it at [https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286882-mapwriter-an-open-source-mini-map](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286882-mapwriter-an-open-source-mini-map).
+
