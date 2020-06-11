@@ -246,7 +246,7 @@ Instead, this document will occasionally be updated with some of the more freque
 
 
 ## Minimap
-Dogpit: Unleashed does not have a Dynmap map like the regular Dogpit server. Instead, at any time, you can press **m** to bring up your own minimap. 
+Dogpit: Unleashed does not have a Dynmap map like the regular Dogpit server. Instead, at any time, you can press `m` to bring up your own minimap. 
 
 You can set your own markers/waypoints by right-clicking the minimap. It's pretty nifty!
 
