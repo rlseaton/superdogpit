@@ -232,6 +232,8 @@ Click the **"Modpacks"** tab at the top of the launcher window. In the modpack l
 
 This takes care of making sure you have all the right mods in all the right places, and manages individual modpack installations for you. It really does take a lot of the hassle out of connecting to a modded server.
 
+You might get a warning when you try to play the game about *Modpack Requirements* telling you to use more memory. You can just press "OK" and it will work just fine. You can modify the amount of memory used by each modpack through the launcher should you choose.
+
 From this point forward, connecting to and playing on the Dogpit: Unleashed server works just like any other Minecraft experience.
 
 
