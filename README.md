@@ -259,3 +259,9 @@ So when you kill a baddie, you gain the ability to **morph into its form**. Morp
 To morph, all you have to do is press `[` or `]`. That's it! It'll show you the list of mobs you can morph into.
 
 Have fun! Be careful... someone might mistake you for a skeleton!!!
+
+
+## Hats
+There's also a cosmetic hat mod. There are a TON of hats. You can combine them with Morphs (above) as well for fun and profit.
+
+Just press `H` to access the Hat GUI and hat away!
