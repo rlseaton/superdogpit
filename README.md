@@ -1,15 +1,3 @@
-The Dogpit Discord now has two, count'em, *TWO*, Minecraft servers: **Dogpit** and **Dogpit: Unleashed**.
-
-This document contains all the information you need to connect and play on either one!
-
-Skip to [Dogpit](#dogpit)
-
-Skip to [Dogpit: Unleashed](#dogpit-unleashed)
-
----
-&nbsp;  
-&nbsp;  
-
 # Dogpit
 The Dogpit Minecraft server is a private Spigot server for the Dogpit Discord channel. It's essentially Vanilla minecraft with some extra bells and whistles attached. You **do not** need a special client to connect to Dogpit.
 
@@ -206,62 +194,4 @@ To collect your reward, for example let's say you've collected all of the "Very 
 
 **Note:** Be careful because the reward command can, and will, eat "shiny" versions of cards. These are no different from non-shiny cards, but players may value them more!
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
 
----
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-# Dogpit: Unleashed
-The Dogpit: Unleashed Minecraft server is a private server for the Dogpit Discord channel. It's running the **Attack of the B-Team** modpack from Technic.
-
-Unlike Dogpit, which is a collection of Spigot plugins, Dogpit: Unleashed is a truly modded server, and therefore requires a special client to play. The modpack is a curated collection of mods managed by the good folks at Technic.
-
-*Keep in mind that this modpack runs on a very old version of Minecraft: 1.6.4. So many of the new features you might be accustomed to in 1.15.x may be missing or implemented by a mod in a different way.*
-
-
-## Unleash Yourself and Face to Bloodshed
-The easiest way to connect to Dogpit: Unleashed is to use the **Technic Launcher** available at: [https://www.technicpack.net/download](https://www.technicpack.net/download)
-
-Once you've downloaded and installed the Launcher (or just downloaded the portable version), start it up and login with your usual Minecraft credentials.
-
-Click the **"Modpacks"** tab at the top of the launcher window. In the modpack list on the left, find the one named **"Attack of the B-Team"** and click it. You can then install the modpack using the "Install" button on the bottom-right.
-
-This takes care of making sure you have all the right mods in all the right places, and manages individual modpack installations for you. It really does take a lot of the hassle out of connecting to a modded server.
-
-You might get a warning when you try to play the game about *Modpack Requirements* telling you to use more memory. You can just press "OK" and it will work just fine. You can modify the amount of memory used by each modpack through the launcher should you choose.
-
-From this point forward, connecting to and playing on the Dogpit: Unleashed server works just like any other Minecraft experience.
-
-
-## Mooooooooods
-You can find a list of all mods in use by Attack of the B-Team here: [https://www.technicpack.net/modpack/attack-of-the-bteam.552556/mods](https://www.technicpack.net/modpack/attack-of-the-bteam.552556/mods)
-
-Listing every single feature from every single mod is out of the scope of this document. There's just waaaaaaaaay too much.
-
-Instead, this document will occasionally be updated with some of the more frequently used, or frequently confusing, features. Most of the mods listed in the link above have their own wikis where you can find all sorts of information on how to use them. Remember: ***just because a mod is in use doesn't mean you have to use it***. Feel free to do whatever you want, play however you want, and don't feel forced to use all the mods. You are, in fact, *unleashed*, after all.
-
-
-## Minimap
-Dogpit: Unleashed does not have a Dynmap map like the regular Dogpit server. Instead, at any time, you can press `m` to bring up your own minimap. 
-
-You can set your own markers/waypoints by right-clicking the minimap. It's pretty nifty!
-
-The mod in use is called **MapWriter** and you can learn more about it at [https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286882-mapwriter-an-open-source-mini-map](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286882-mapwriter-an-open-source-mini-map).
-
-
-## Morph Mod
-So when you kill a baddie, you gain the ability to **morph into its form**. Morphing into a mob grants you all of the qualities of that mob, including some of their special abilities like fast swimming, water breathing, burning under the sun, or the ability to climb walls!
-
-To morph, all you have to do is press `[` or `]`. That's it! It'll show you the list of mobs you can morph into.
-
-Have fun! Be careful... someone might mistake you for a skeleton!!!
-
-
-## Hats
-There's also a cosmetic hat mod. There are a TON of hats. You can combine them with Morphs (above) as well for fun and profit.
-
-Just press `H` to access the Hat GUI and hat away!
