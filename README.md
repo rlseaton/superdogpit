@@ -15,13 +15,10 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
 - [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
-- [Grappling Hook](https://www.spigotmc.org/resources/grappling-hook.70854/) [⏬](#grappling-hook)
-- [Marriage Master](https://www.spigotmc.org/resources/marriage-master-mc-1-7-1-15.19273/) [⏬](#marriage-master)
 - [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
 - [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
 - [No Mob Griefing](https://dev.bukkit.org/projects/no-mob-griefing) [⏬](#no-mob-griefing)
 - [Voteday](https://www.spigotmc.org/resources/voteday.77077/) [⏬](#voteday)
-- [XP Trading Cards](https://www.spigotmc.org/resources/xp-trading-cards.9378/) [⏬](#xp-trading-cards)
 
 
 ## Dynmap
@@ -98,31 +95,6 @@ Once you've read your mail, you can use `/mail clear` to empty your mailbox.
 Lastly, there are a couple of **convenient warp commands** available to you: `/home` and `/spawn`. Home will take you to your bed, spawn will take you to spawn.
 
 
-## Grappling Hook
-You can craft grappling hooks, with different usage amounts, using the recipes below.
-
-Simply hold the grappling hook and right click. If the hook grabs something, it'll pull you to it. It's a nifty way to cross gaps or stop yourself from falling!
-
-Once you've exhausted a grappling hook, it will break.
-
-![alt text](https://rlseaton.github.io/superdogpit/images/wooden-grappling-hook.png "Wooden Grappling Hook")
-![alt text](https://rlseaton.github.io/superdogpit/images/iron-grappling-hook.png "Iron Grappling Hook")
-![alt text](https://rlseaton.github.io/superdogpit/images/gold-grappling-hook.png "Gold Grappling Hook")
-![alt text](https://rlseaton.github.io/superdogpit/images/diamond-grappling-hook.png "Diamond Grappling Hook")
-
-
-## Marriage Master
-You can get married any other player! Married players get benefits such as shared XP, the ability to share backpacks, send gifts from *anywhere*, the ability to kiss, turn off friendly fire, teleport to your spouse, and a lot more!
-
-The first thing you'll want to do is **find a priest**. You can do that with `/marry listpriests`. Ops are priests automatically, and can ordain other players as priests if necessary.
-
-Once you've found a priest, the two of you need to be in the priest's vicinity, and the priest can then marry you by typing `/marry marry PlayerName1 PlayerName2`.
-
-You'll be notified and must then either `/marry accept` or `/marry deny`. If you both accept, congrats! You tied the knot!
-
-You can type `/marry` to get a full list of commands and what they do. Note that `sethome` and `delhome` are for setting where you'll end up if you type `/marry home`.
-
-
 ## mcMMO
 This is *by far* the biggest and most game-changing plugin installed on this server. 
 
@@ -163,35 +135,3 @@ It's night, dozens of monsters are around, there's no op online, and no one is a
 Have no fear! Simply type `/voteday` and it will start a server-wide vote. If enough other players (ignoring AFK players) type `/voteday confirm`, it will magically become daytime!
 
 It's that simple! You can read more by typing `/voteday help`.
-
-
-## XP Trading Cards
-As you're out killing mobs, you might notice that they now occasionally drop trading cards! Most of them will be for all of the classic Minecraft characters we all know and love such as Pig, Zombie, Cow, etc.
-
-But sometimes you'll get a card based on one of the players on the server, or even cards for characters who have appeared in game jams or games being actively developed on the Dogpit Discord!
-
-![alt text](https://rlseaton.github.io/superdogpit/images/card.png "Trading Card")
-
-**Over time, new cards might be added, along with flavor text! You can even get "shiny" versions of cards.**
-
-So... what do you do with these? 
-
-Well, you can collect them, obviously, and trade them with other players.
-
-You can also organize them into **decks**, which are ultimately freely available card-only inventories *(if you put non-card items in them those items pop out when you close them)*. Decks are labeled by numbers (so you can have Deck #1 with all of your zombies, Deck #23 with all of your rares, etc.). To get, for example, your #2 deck, simply type `/cards getdeck 2`.
-
-Decks are kinda weird in the fact that they are like little individual card-only Ender Chests. You can type `/cards getdeck 2` over and over and get 10 of your #2 decks. You can even stash those decks in chests, or give them to other players. But those decks will always be *yours*, and changes you make in any deck with the same label (#2, or #153, etc.) will be made to all copies. These are really for **organization only**.
-
-What else can you do with them...?
-
-You can also get **rewards** for collecting all cards from any given "rarity" (common, uncommon, legendary, etc.).
-
-To see your progress, type `/cards list`. If you see a rarity listed as **"complete"** then you can turn it in for money and prizes!
-
-To collect your reward, for example let's say you've collected all of the "Very Rare" cards, make sure all of the cards are in a deck, then type `/cards reward Very_Rare`. You will lose one of all of your "Very Rare" cards and receive a reward!
-
-**Note:** The list and reward commands only take into consideration **cards in your decks**. So you must put cards into decks before checking your progress or collecting your reward! Otherwise it won't know you own them!
-
-**Note:** Be careful because the reward command can, and will, eat "shiny" versions of cards. These are no different from non-shiny cards, but players may value them more!
-
-
