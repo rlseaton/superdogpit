@@ -13,8 +13,8 @@ This document lists all installed plugins on the server, along with usage instru
 ## Installed Plugins
 A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a ⏬ quick link to their respective sections in this document.
 
-- [OneStopShop](https://www.spigotmc.org/resources/onestopshop-free-gui-item-shop.76640/) [⏬](#onestopshop)
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
+- [OneStopShop](https://www.spigotmc.org/resources/onestopshop-free-gui-item-shop.76640/) [⏬](#onestopshop)
 - [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
 - [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
 - [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
