@@ -13,6 +13,7 @@ This document lists all installed plugins on the server, along with usage instru
 ## Installed Plugins
 A brief list of all currently installed plugins, and a link to their Spigot/Bukkit page, as well as a ⏬ quick link to their respective sections in this document.
 
+- [OneStopShop](https://www.spigotmc.org/resources/onestopshop-free-gui-item-shop.76640/) [⏬](#onestopshop)
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
 - [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
 - [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
@@ -38,6 +39,24 @@ You can now add markers to the map! To do so, just stand where you want the mark
 If you need to **remove a marker** contact an op!
 
 ![alt text](https://rlseaton.github.io/superdogpit/images/dynmap-marker-icons.png "Dynmap Marker Icons")
+
+
+## OneStopShop
+This plugin adds a GUI to your shopping experience! It uses the same money and prices as the Essentials X plugin below, but makes it a little easier to buy and sell things. *Note: There are some items you can sell in the shop, but not through the sell command.*
+
+To access the shop, use the command `/shop`.
+
+This will bring up the shop and show you all available categories:
+
+![alt text](https://rlseaton.github.io/superdogpit/images/shop.png "Shop Interface")
+
+Once you've clicked an individual item, you can **buy** it in quantities of 1, 8, or 64 by clicking the **green boxes** next to it.
+
+You can **sell** that item (if you have any) by clicking the **red boxes**.
+
+You can also buy enough of that item to fill your inventory, or sell all items in your inventory, with the inventory buttons.
+
+If something is missing from the shop, contact an op and we'll see about adding it!
 
 
 ## Essentials X
