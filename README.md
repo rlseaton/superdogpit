@@ -15,6 +15,7 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
 - [OneStopShop](https://www.spigotmc.org/resources/onestopshop-free-gui-item-shop.76640/) [⏬](#onestopshop)
+- [TempFly](https://www.spigotmc.org/resources/tempfly.54987/) [⏬](#tempfly)
 - [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
 - [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
 - [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
@@ -59,8 +60,27 @@ You can also buy enough of that item to fill your inventory, or sell all items i
 If something is missing from the shop, contact an op and we'll see about adding it!
 
 
-## Essentials X
+## TempFly
+This plugin gives players the ability to **fly... temporarily**!
 
+Every player has **flight time**. You can check how much you have with `/tfly balance`.
+
+To fly, all you have to do is **enable flight** with the command `/tfly`. Then **double jump** and boom, you're airborn!
+
+While flying, your flight time will decrease. Once it's out, you can't fly anymore. However...
+
+You can **purchase more flight time**. At the moment you must do so through a *separate shop* using the command `/tfly shop`.
+
+One minute of flight is roughly equivalent to the price of an ender pearl.
+
+You also get **daily bonuses**, free flight time you earn every day!
+
+I anticipate with the pricing and free time, most people will be able to fly whenever they want, for as long as they need. 
+
+If you're desperate, you can also trade flight time with other players using the `/tfly pay [playername]` command.
+
+
+## Essentials X
 This plugin adds more features than would fit in the scope of this document.
 
 The main things you'll probably use it for are **money**, **trading**, and interacting with op-provided **sign shops**.
