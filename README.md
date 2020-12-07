@@ -16,6 +16,7 @@ A brief list of all currently installed plugins, and a link to their Spigot/Bukk
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) [⏬](#dynmap)
 - [OneStopShop](https://www.spigotmc.org/resources/onestopshop-free-gui-item-shop.76640/) [⏬](#onestopshop)
 - [TempFly](https://www.spigotmc.org/resources/tempfly.54987/) [⏬](#tempfly)
+- [UltraRepair](https://www.spigotmc.org/resources/ultrarepair-advanced-item-repairing-and-fixing.63035/) [⏬](#ultrarepair)
 - [Essentials X](https://www.spigotmc.org/resources/essentialsx.9089/) [⏬](#essentials-x)
 - [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [⏬](#mcmmo)
 - [Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-15.19286/) [⏬](#minepacks)
@@ -82,6 +83,16 @@ You also get **daily bonuses**, free flight time you earn every day!
 I anticipate with the pricing and free time, most people will be able to fly whenever they want, for as long as they need. 
 
 If you're desperate, you can also trade flight time with other players using the `/tfly pay [playername]` command.
+
+
+## UltraRepair
+This plugin allows you to repair equipment without using up precious XP.
+
+Simply hold the item you want to repair in your hand and use the command `/repair-hand`.
+
+**This will charge you 8000 PitCoins** so make sure the repair is worth it. *(For Netherite stuff it's extremely cheap, but for iron, gold, etc. it's kinda pricy.)*
+
+Your item will have its durability fully restored, and it will retain all of its enchantments and such!
 
 
 ## Essentials X
