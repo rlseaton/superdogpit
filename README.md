@@ -57,7 +57,11 @@ You can **sell** that item (if you have any) by clicking the **red boxes**.
 
 You can also buy enough of that item to fill your inventory, or sell all items in your inventory, with the inventory buttons.
 
-If something is missing from the shop, contact an op and we'll see about adding it!
+Finally, there's an interesting item this plugin adds called a **Sellwand**. You can obtain a sellwand for free by using the command `/shop sellwand`.
+
+Right-clicking any chest or container with the sellwand will sell **all sellable items** in the container. This is handy if you have a chest with a mixture of things you'd like to sell all at once!
+
+If something is missing from the shop, or a price seems way out of line, contact an op and we'll see about fixing it!
 
 
 ## TempFly
